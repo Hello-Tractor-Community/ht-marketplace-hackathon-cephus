@@ -18,7 +18,7 @@
 ### Client setup
 
 ```sh
-    cd client
+    cd hello_tractor_client
 
     npm install
 
@@ -38,7 +38,7 @@
 
     pip install -r requirements.txt
 
-    cd backend/hello_tractor
+    cd hello_tractor_backend/hello_tractor
 
     python3 manage.py migrate
 
