@@ -100,10 +100,18 @@ This project involves the design and development of a secondary marketplace plat
 ## Frontend link
 - https://render-frontend-kvxa.onrender.com/
 
+## Logged In user Credentials
+- `Email`: lee@gmail.com
+- `Password`: pass1234567
+
 ## Backend Link Admin panel
 - https://render-backend-58to.onrender.com/
     or 
 - https://render-backend-58to.onrender.com/admin
+
+## Super User Credentials
+- `Email`: hellotractor@gmail.com
+- `Password`: pass1234567
 
 ## Youtube Link
 - https://www.youtube.com/watch?v=8E4uYmEdYZs
